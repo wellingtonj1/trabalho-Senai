@@ -24,11 +24,11 @@ Implemente um sistema de gerenciamento de biblioteca com funcionalidades para ad
    - `carregar_dados()`: Carrega os dados da biblioteca e dos usuários a partir de arquivos.
 
 4. Crie um script `main.py` que:
-   - Adicione pelo menos três livros à biblioteca.
-   - Crie dois usuários.
-   - Realize operações de empréstimo e devolução.
-   - Liste todos os livros, indicando quais estão disponíveis e quais estão emprestados.
-   - Salve e carregue os dados da biblioteca e dos usuários.
+   - Permita Adicionar livros à biblioteca.
+   - Permita Criar usuários.
+   - Permita Realizar operações de empréstimo e devolução.
+   - Permita Listar todos os livros, indicando quais estão disponíveis e quais estão emprestados.
+   - Permita Salvar e carregar os dados da biblioteca e dos usuários.
 
 **Estrutura de Arquivos:**
 ```
