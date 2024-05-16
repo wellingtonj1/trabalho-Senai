@@ -25,10 +25,10 @@ Implemente um sistema de gerenciamento de contas bancárias que permita criar co
    - `carregar_dados()`
 
 4. Crie um script `main.py` que:
-   - Crie pelo menos duas contas bancárias.
-   - Realize operações de depósito, saque e transferência.
-   - Exiba os saldos das contas.
-   - Salve e carregue os dados das contas.
+   - Permita Criar contas bancárias.
+   - Permita Realizar operações de depósito, saque e transferência.
+   - Permita Exibir os saldos das contas.
+   - Permita Salvar e carregar os dados das contas.
 
 **Estrutura de Arquivos:**
 ```
