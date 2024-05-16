@@ -32,7 +32,7 @@ Implemente um sistema de gerenciamento de biblioteca com funcionalidades para ad
 
 **Estrutura de Arquivos:**
 ```
-biblioteca/
+trabalho_01/
     Livro.py
     Usuario.py
     Biblioteca.py
